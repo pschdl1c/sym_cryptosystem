@@ -16,4 +16,5 @@ Start `client.py` in __/client__.
 
 ### How it works:
 [Symmetric cipher with recurrent neural networks.](https://github.com/pschdl1c/RNN-cipher)
+
 [Key generator as a TPM.](https://github.com/pschdl1c/TPM)
