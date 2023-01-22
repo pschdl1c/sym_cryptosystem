@@ -10,8 +10,9 @@ Copy this commands to your console:
 
 For Windows users: [click here](https://stackoverflow.com/a/72256408/20294758) if there are problems with XLA.
 
+Create certs using `gen_cert.py` in __/server__.
 Start `server.py` in __/server__.  
-Start `client.py` in __/client__.  
+Start some `client.py` in __/client__.  
 
 
 ### How it works:
