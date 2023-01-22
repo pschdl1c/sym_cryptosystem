@@ -10,12 +10,11 @@ Copy this commands to your console:
 
 For Windows users: [click here](https://stackoverflow.com/a/72256408/20294758) if there are problems with XLA.
 
-Create certs using `gen_cert.py` in __/server__.
+Create certs using `gen_cert.py` in __/server__.  
 Start `server.py` in __/server__.  
 Start some `client.py` in __/client__.  
 
 
 ### How it works:
-[Symmetric cipher with recurrent neural networks.](https://github.com/pschdl1c/RNN-cipher)
-
+[Symmetric cipher with recurrent neural networks.](https://github.com/pschdl1c/RNN-cipher)  
 [Key generator as a TPM.](https://github.com/pschdl1c/TPM)
